@@ -1,3 +1,5 @@
+# This serves as an extensive documentation for keras
+
 # Keras Documentation
 
 The source for Keras documentation is in this directory. 
